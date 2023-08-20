@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **haynesjerome@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1eHKRS0uF41baV-YNKFS7IdKE3nSD2VdAxVXrd-1l9yo/edit?usp=sharing](https://docs.google.com/document/d/1eHKRS0uF41baV-YNKFS7IdKE3nSD2VdAxVXrd-1l9yo/edit?usp=sharing)
-
 - ⚡ Fun fact **I love video games**
 
 <h3 align="left">Connect with me:</h3>
