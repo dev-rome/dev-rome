@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React, JavaScript, TypeScript, Next.js, Modern React with Redux, Master the Coding Interview: Data Structures + Algorithms**
 
-- 👨‍💻 All of my projects are available at [jeromehaynes.com](jeromehaynes.com)
+- 👨‍💻 All of my projects are available at [jeromehaynes.com](https://jeromehaynes.com/)
 
 - 📫 How to reach me **haynesjerome@gmail.com**
 
