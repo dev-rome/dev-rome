@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-rome" alt="dev-rome" /></a> </p>
 
-- 🌱 I’m currently learning **React, JavaScript, TypeScript, Next.js, Modern React with Redux, Master the Coding Interview: Data Structures + Algorithms**
-
 - 👨‍💻 All of my projects are available at [jeromehaynes.com](https://jeromehaynes.com/)
 
-- 📫 How to reach me **haynesjerome@gmail.com**
+- 📫 How to reach me **info.devrome@gmail.com**
 
 - ⚡ Fun fact **I love video games**
 
